@@ -1,0 +1,45 @@
+
+Data Analytics
+===============
+    * Is process of analyzing raw data in order to draw out meaningful, actionable insights, which are then used to infrom & drive smart Buisness decisions.
+    * They have to examine large datasets with goal of identfying trends & patterns. They visulaize their finding in form of charts , graphs, dashboard.
+
+Importance  To Buisness
+    * Gain greater insight into target market
+    * Enhance decisions making
+    * Targeted Strategires & marketing campagins
+    * Identgy new opportunity & new product 
+
+
+Primary data Vs Secondary data
+==============================
+
+Primary data collection involves collection of original dara directly from the source or through direction with repondent .
+
+Secondary data derived from Primary
+
+
+
+see "IBM/hot_warm_cold.png"
+
+
+Four Type of data anaylysis
+============================
+
+    (1) Descriptive (What Happened)
+    (2) Diagnostic (Why did it Happened) 
+            Example: Data mining techiniques, regression anaylsis , cohort anaylsis 
+
+    (3) Predictive (What is likey to happen in future)
+            Example: Forecasting model, time series anaylsis , classification algorithm
+
+    (4) Perscriptive (What should happen)
+        Example: Optimization model, simulation  tools , desision support system 
+
+Steps of data Analytics
+==========================
+    (1) Gather required dataset
+    (2) Understand dataset
+    (3) Clean dataset
+    (4) Do necessary statistical analysis
+    (5) Plot necessary visulaization to draw out meaningful, actionable insights from data
