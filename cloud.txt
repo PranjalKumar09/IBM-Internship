@@ -1,0 +1,26 @@
+REAL USE CASE OF HYBRID CLOUD 
+==============================
+
+    BBC 
+
+Pros of HYbrid CLoud Model
+==========================
+    Cost Effective
+    Security 
+
+Cons of Hybrid Cloud Model
+==========================
+    Limited Scalablity
+    Right in customization
+    Governance Challenges
+    Not for All Buisness
+    Consider Trade off
+    Evaluate You Needs
+
+
+Q- How does IBM view the impact of artificial intelligence?
+=> It is here to augment human intelligence
+
+
+
+T
