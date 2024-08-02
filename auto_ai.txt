@@ -1,0 +1,10 @@
+Auto Ai
+========
+
+    Creating all steps of ML model automatically
+
+    We can link data from already pushed data set , or browse dataset now from computer 
+        numerical: regression , rest/names: classification
+
+
+https://github.com/Sardaruzma/EDA/blob/main/EDAUpdated.ipynb    
